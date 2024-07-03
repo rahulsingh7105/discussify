@@ -1,0 +1,5 @@
+{
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "files.autoSave": "afterDelay",
+    "cmake.configureOnOpen": false
+}
